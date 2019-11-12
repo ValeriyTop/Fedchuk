@@ -1,0 +1,11 @@
+D:\Конструювання ПЗ\oop-lab6\oop-lab6\bin\Debug\netcoreapp3.0\oop-lab6.exe
+D:\Конструювання ПЗ\oop-lab6\oop-lab6\bin\Debug\netcoreapp3.0\oop-lab6.deps.json
+D:\Конструювання ПЗ\oop-lab6\oop-lab6\bin\Debug\netcoreapp3.0\oop-lab6.runtimeconfig.json
+D:\Конструювання ПЗ\oop-lab6\oop-lab6\bin\Debug\netcoreapp3.0\oop-lab6.runtimeconfig.dev.json
+D:\Конструювання ПЗ\oop-lab6\oop-lab6\bin\Debug\netcoreapp3.0\oop-lab6.dll
+D:\Конструювання ПЗ\oop-lab6\oop-lab6\bin\Debug\netcoreapp3.0\oop-lab6.pdb
+D:\Конструювання ПЗ\oop-lab6\oop-lab6\obj\Debug\netcoreapp3.0\oop-lab6.csprojAssemblyReference.cache
+D:\Конструювання ПЗ\oop-lab6\oop-lab6\obj\Debug\netcoreapp3.0\oop-lab6.AssemblyInfoInputs.cache
+D:\Конструювання ПЗ\oop-lab6\oop-lab6\obj\Debug\netcoreapp3.0\oop-lab6.AssemblyInfo.cs
+D:\Конструювання ПЗ\oop-lab6\oop-lab6\obj\Debug\netcoreapp3.0\oop-lab6.dll
+D:\Конструювання ПЗ\oop-lab6\oop-lab6\obj\Debug\netcoreapp3.0\oop-lab6.pdb
