@@ -1,0 +1,6 @@
+D:\Конструювання ПЗ\oop-lab5\oop-lab5\obj\Debug\oop-lab5.csprojAssemblyReference.cache
+D:\Конструювання ПЗ\oop-lab5\oop-lab5\bin\Debug\oop-lab5.exe.config
+D:\Конструювання ПЗ\oop-lab5\oop-lab5\bin\Debug\oop-lab5.exe
+D:\Конструювання ПЗ\oop-lab5\oop-lab5\bin\Debug\oop-lab5.pdb
+D:\Конструювання ПЗ\oop-lab5\oop-lab5\obj\Debug\oop-lab5.exe
+D:\Конструювання ПЗ\oop-lab5\oop-lab5\obj\Debug\oop-lab5.pdb
