@@ -1,0 +1,67 @@
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.deps.json
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.runtimeconfig.json
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.runtimeconfig.dev.json
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.dll
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.pdb
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csprojAssemblyReference.cache
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csproj.CoreCompileInputs.cache
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.AssemblyInfoInputs.cache
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.AssemblyInfo.cs
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csproj.CopyComplete
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.dll
+D:\csharp\Goyanuk\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.pdb
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.deps.json
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.runtimeconfig.json
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.runtimeconfig.dev.json
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.dll
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.pdb
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csprojAssemblyReference.cache
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csproj.CoreCompileInputs.cache
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.AssemblyInfoInputs.cache
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.AssemblyInfo.cs
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csproj.CopyComplete
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.dll
+D:\csharp\Goyanuk\oop-lab7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.pdb
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.deps.json
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.runtimeconfig.json
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.runtimeconfig.dev.json
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.dll
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.pdb
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csprojAssemblyReference.cache
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.AssemblyInfoInputs.cache
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.AssemblyInfo.cs
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csproj.CopyComplete
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.dll
+D:\Конструювання ПЗ\pract7\oop-lab7-1\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.pdb
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.deps.json
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.runtimeconfig.json
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.runtimeconfig.dev.json
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.dll
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.pdb
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csprojAssemblyReference.cache
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.AssemblyInfoInputs.cache
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.AssemblyInfo.cs
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csproj.CopyComplete
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.dll
+D:\Конструювання ПЗ\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.pdb
+F:\Нова папка\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.deps.json
+F:\Нова папка\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.runtimeconfig.json
+F:\Нова папка\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.runtimeconfig.dev.json
+F:\Нова папка\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.dll
+F:\Нова папка\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\oop-lab7.pdb
+F:\Нова папка\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+F:\Нова папка\pract7\oop-lab7\oop-lab7\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+F:\Нова папка\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csprojAssemblyReference.cache
+F:\Нова папка\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.AssemblyInfoInputs.cache
+F:\Нова папка\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.AssemblyInfo.cs
+F:\Нова папка\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.csproj.CopyComplete
+F:\Нова папка\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.dll
+F:\Нова папка\pract7\oop-lab7\oop-lab7\obj\Debug\netcoreapp2.1\oop-lab7.pdb
